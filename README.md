@@ -89,7 +89,7 @@ pip install -r requirements.txt
 Alternatively, you can install the dependencies manually:
 
 ```bash
-pip install matplotlib==3.8.4 numpy==2.2.1 pandas==2.2.3 scikit_learn==1.4.2 seaborn==0.13.2 xgboost==2.1.3
+pip install matplotlib==3.8.4 numpy==2.2.1 pandas==2.2.3 scikit_learn==1.3.1 seaborn==0.13.2 xgboost==2.1.3
 ```
 
 ## Usage
