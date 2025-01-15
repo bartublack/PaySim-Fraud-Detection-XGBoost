@@ -1,2 +1,2 @@
-# PaySim-Fraud-Detection-XGBoost
-An XGBoost-based fraud detection modelto identify money laundering in mobile transactions using PaySim synthetic dataset.
+# PaySim_Fraud_Detection_XGBoost
+An XGBoost-based fraud detection project to identify money laundering in mobile transactions using machine learning.
